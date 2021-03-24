@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo03.MissingUsingDirectiv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo04.XamlTools", "Demo04.XamlTools\Demo04.XamlTools.csproj", "{A3045669-D1B9-48AB-853C-6E5B94CCA4D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo05.FrictionlessRepeatedEdits", "Demo05.FrictionlessRepeatedEdits\Demo05.FrictionlessRepeatedEdits.csproj", "{D2CE0C6B-94B7-48C3-A26F-FB9B2767BAA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A3045669-D1B9-48AB-853C-6E5B94CCA4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3045669-D1B9-48AB-853C-6E5B94CCA4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3045669-D1B9-48AB-853C-6E5B94CCA4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CE0C6B-94B7-48C3-A26F-FB9B2767BAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CE0C6B-94B7-48C3-A26F-FB9B2767BAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CE0C6B-94B7-48C3-A26F-FB9B2767BAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CE0C6B-94B7-48C3-A26F-FB9B2767BAA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
